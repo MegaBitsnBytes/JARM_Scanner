@@ -4,7 +4,7 @@ An active cyber threat intelligence (CTI) reconnaissance tool that leverages the
 
 ## The Use Case: Pivoting Beyond Basic IP IOCs
 
-Traditional infrastructure hunting often relies on reactive, surface-level Indicators of Compromise (IOCs) like IP addresses and domain names. The limitation of this approach is that IP addresses are highly ephemeral—threat actors can rotate domains and spin up new virtual private servers (VPS) in minutes to evade blocklists.
+Traditional infrastructure hunting often relies on reactive, surface-level Indicators of Compromise (IOCs) like IP addresses and domain names. The limitation of this approach is that IP addresses are highly ephemeral—threat actors can rotate domains and spin up new virtual private servers (VPS) in minutes to evade blocklists. **All you need is a Shodan Key and the JARM hash you want to search**. 
 
 **JARM fingerprinting shifts the hunt from surface indicators to underlying behaviors.**
 
