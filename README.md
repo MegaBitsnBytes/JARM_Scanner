@@ -20,5 +20,5 @@ This provides massive leverage for CTI analysts:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/YOUR-REPO.git](https://github.com/YOUR-USERNAME/YOUR-REPO.git)
-   cd YOUR-REPO
+   git clone [https://github.com/MegaBitsnBytes/JARM_Scanner.git](https://github.com/MegaBitsnBytes/JARM_Scanner.git)
+   cd JARM_Scanner
